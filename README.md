@@ -9,10 +9,10 @@ Steps followed:
 
 1) Pre-process and explore the dataset
 
-2) Build two classifiers such as.
+2) Build two classifiers such as:
 
-Classifier 1: Build a model based on a convolutional neural network.
+    Classifier 1: Build a model based on a convolutional neural network.
 
-Classifier 2: Build a model from a pretrained model using transfer learning ( VGG 19 and ResNet50).
+    Classifier 2: Build a model from a pretrained model using transfer learning ( VGG 19 and ResNet50).
 
 3) Save the model weights locally after training and load them to classify an unforeseen image.
